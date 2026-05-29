@@ -13,8 +13,8 @@ I enjoy building intelligent systems that combine AI, deep learning, and satelli
 
 ## 🐍 Contribution Snake
 
-<!-- <p align="center"> -->
-  https://raw.githubusercontent.com/Dhruv-Bhola/Dhruv-Bhola/output/github-snake-dark.svg
+<p align="center">
+  https://raw.githubusercontent.com/Dhruv-Bhola/Dhruv-Bhola/blob/output/github-snake-dark.svg
 
 ---
 
