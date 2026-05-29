@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dhruv Bhola
+<h1 align="center">Hi 👋, I'm Dhruv Bhola</h1>
 
 🎓 MCA Student at IIIT Bhopal
 
