@@ -29,7 +29,7 @@ Feel free to explore my repositories and connect with me for collaborations, res
 
 
 <p align="center">
-<table border = "0">
+<table style="border:none;">
 <tr>
 <td>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
