@@ -29,7 +29,7 @@ Feel free to explore my repositories and connect with me for collaborations, res
 
 
 <p align="center">
-<table border = '1' cellspacing='0'>
+<table border = "0">
 <tr>
 <td>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,19 +52,3 @@ dhruv-bhola.netlify.app
 </td>
 </tr>
 </table>
-
-<p>
-<a href="https://www.linkedin.com/in/dhruvbhola">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dhruvbhola">linkedin.com/in/dhruvbhola</a>
-</p>
-
-<p>
-<a href="https://dhruv-bhola.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://dhruv-bhola.netlify.app">dhruv-bhola.netlify.app</a>
-</p>
