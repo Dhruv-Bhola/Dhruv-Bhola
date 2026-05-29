@@ -7,7 +7,7 @@
 🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Geospatial AI
 
 
-## 🔭 About Me
+<h2 align='center'> 🔭 About Me</h2>
 
 <p align="center">
 I enjoy building intelligent systems that combine AI, deep learning, and satellite data to solve real-world problems. My interests lie in Computer Vision, Remote Sensing, Earth Observation, and Foundation Models. I am constantly exploring new technologies and transforming research ideas into practical applications.
