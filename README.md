@@ -23,8 +23,6 @@ I enjoy building intelligent systems that combine AI, deep learning, and satelli
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-## 📫 Connect With Me
-
 Feel free to explore my repositories and connect with me for collaborations, research discussions, and innovative AI projects.
 
 🚀 Always learning, building, and exploring.
