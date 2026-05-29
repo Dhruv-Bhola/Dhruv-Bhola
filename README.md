@@ -25,30 +25,4 @@ I enjoy building intelligent systems that combine AI, deep learning, and satelli
 
 Feel free to explore my repositories and connect with me for collaborations, research discussions, and innovative AI projects.
 
-🚀 Always learning, building, and exploring.
-
-
-<p align="center">
-<table style="border:none;">
-<tr>
-<td>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</td>
-<td>
-<a href="https://www.linkedin.com/in/dhruvbhola">
-linkedin.com/in/dhruvbhola
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</td>
-<td>
-<a href="https://dhruv-bhola.netlify.app">
-dhruv-bhola.netlify.app
-</a>
-</td>
-</tr>
-</table>
+🚀 Always learning, building, and exploring.... 💙
