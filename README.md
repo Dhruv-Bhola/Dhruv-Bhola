@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Dhruv Bhola
 
 🎓 MCA Student at IIIT Bhopal
+
 🚀 Research Intern at IIST
+
 🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Geospatial AI
 
 ## 💫 About Me
