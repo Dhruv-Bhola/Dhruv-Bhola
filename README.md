@@ -31,7 +31,7 @@ Feel free to explore my repositories and connect with me for collaborations, res
 
 🚀 Always learning, building, and exploring.
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> https://www.linkedin.com/in/dhruvbhola/ <br>
-<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> https://dhruv-bhola.netlify.app/
+<p><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> https://www.linkedin.com/in/dhruvbhola </p><br>
+<p><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> https://dhruv-bhola.netlify.app</p>
 
 
