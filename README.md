@@ -11,6 +11,7 @@ I enjoy building intelligent systems that combine AI, deep learning, and satelli
 
 ---
 <p align='center'>
+    <img src="https://github.com/Dhruv-Bhola/Dhruv-Bhola/blob/output/github-snake-dark.svg"/>
 ![snake gif](https://github.com/Dhruv-Bhola/Dhruv-Bhola/blob/output/github-snake-dark.svg)
 </p>
 
