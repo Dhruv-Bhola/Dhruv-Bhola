@@ -9,6 +9,15 @@
 
 I enjoy building intelligent systems that combine AI, deep learning, and satellite data to solve real-world problems. My interests lie in Computer Vision, Remote Sensing, Earth Observation, and Foundation Models. I am constantly exploring new technologies and transforming research ideas into practical applications.
 
+---
+
+## 🐍 Contribution Snake
+
+<!-- <p align="center"> -->
+  https://raw.githubusercontent.com/Dhruv-Bhola/Dhruv-Bhola/output/github-snake-dark.svg
+
+---
+
 ## 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
