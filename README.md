@@ -31,6 +31,7 @@ Feel free to explore my repositories and connect with me for collaborations, res
 
 ## 💻 Tech Stack
 
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Neural%20Networks-DC143C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
