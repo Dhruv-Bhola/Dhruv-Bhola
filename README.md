@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dhruv Bhola
 
 <p>🎓 MCA Student at IIIT Bhopal</p>
-<p>🚀 Research Intern at IIST</p>
+<p>🚀 Intern at IIST, ISRO Junction, Thiruvananthapuram</p>
 <p>🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Geospatial AI</p>
 
 
