@@ -9,8 +9,16 @@
 
 I enjoy building intelligent systems that combine AI, deep learning, and satellite data to solve real-world problems. My interests lie in Computer Vision, Remote Sensing, Earth Observation, and Foundation Models. I am constantly exploring new technologies and transforming research ideas into practical applications.
 
-<p align='center'>
+<!-- <p align='center'>
     <img src="https://github.com/Dhruv-Bhola/Dhruv-Bhola/blob/output/github-snake-dark.svg"/>
+</p> -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruv-Bhola/Dhruv-Bhola/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruv-Bhola/Dhruv-Bhola/output/ocean.gif">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Dhruv-Bhola/Dhruv-Bhola/output/ocean.gif">
+  </picture>
 </p>
 
 ## 💻 Tech Stack
